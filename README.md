@@ -49,7 +49,6 @@ I'm a passionate **AI Engineer & Web Developer** who believes in building soluti
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasu21&layout=compact&theme=vue-dark&hide_border=true" alt="Dimas Tri Mulyo Top Languages" />
 </p>
 
-### 🔥 GitHub Streak
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasu21&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
