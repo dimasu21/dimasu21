@@ -22,7 +22,7 @@ I'm a passionate **AI Engineer & Web Developer** who believes in building soluti
 
 <br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 <br/>
