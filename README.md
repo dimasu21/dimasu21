@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dimas Tri Mulyo 👋</h1>
+<h1 align="center">Hi there, I'm Dimas Tri Mulyo </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,15 +8,15 @@
 
 <br/>
 
-### 🚀 About Me
+### About Me
 
 I'm a passionate **AI Engineer & Web Developer** who believes in building solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly applications.
 
-- 🌱 Currently mastering **Deep Learning** and modern **Web Development** practices.
-- 💡 Focused on building projects that solve **real-world problems**.
-- 🤝 Open to collaborating on **open-source projects**.
-- 🎯 Always learning, always growing.
-- 💬 Ask me about **Python, React, Node.js, or AI**.
+- Currently mastering **Deep Learning** and modern **Web Development** practices.
+- Focused on building projects that solve **real-world problems**.
+- Open to collaborating on **open-source projects**.
+- Always learning, always growing.
+- Ask me about **Python, React, Node.js, or AI**.
 
 > *"If you do what you studied, you will survive. But if you do what you haven't studied, you will become a leader."*
 
@@ -42,7 +42,7 @@ I'm a passionate **AI Engineer & Web Developer** who believes in building soluti
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-### 🏆 GitHub Stats
+### GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dimasu21&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=circle" alt="Dimas Tri Mulyo GitHub Stats" />
@@ -54,6 +54,3 @@ I'm a passionate **AI Engineer & Web Developer** who believes in building soluti
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasu21&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  Made with ❤️ by Dimas Tri Mulyo
-</div>
